@@ -78,7 +78,7 @@ Nama Operator	            Sombol
 Pengisian Nilai            	=
 Pengisian dan Penambahan	+=
 Pengisian dan Pengurangan	-=
-Pengisian dan Perkalian	    *=
+Pengisian dan Perkalian	        *=
 Pengisian dan Pembagian 	/=
 Pengisian dan Sisa bagi 	%=
 
@@ -106,8 +106,8 @@ Lebih Besar	            >
 Lebih Kecil	            <
 Sama Dengan	            ==
 Tidak Sama dengan	    !=
-Lebih Besar Sama dengan	>=
-Lebih Kecil Sama dengan	<=
+Lebih Besar Sama dengan	    >=
+Lebih Kecil Sama dengan	    <=
 
 Contoh: 
 ```
