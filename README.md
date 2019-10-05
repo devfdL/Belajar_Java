@@ -46,6 +46,7 @@ Ada aturan yang harus diikuit, diantaranya:
 
 ```
 1. Operator Aritmatika
+
 Operator aritmatika digunakan untuk melakukan operasi aritmatika.
 
 Operator ini terdiri dari:
@@ -61,6 +62,57 @@ Contoh:
 ```
 <p align="center">
   <img src="/img/operator.png">
+</p>
+
+---
+```
+2. Operator Penugasan
+
+Operator penugasan (Assignment Operator) fungsinya untuk meberikan tugas pada variabel tertentu. Biasanya untuk mengisi nilai.
+
+Variabel a ditugaskan untuk menyimpan nilai 10.
+
+Operator Penugasan terdiri dari:
+
+Nama Operator	            Sombol
+Pengisian Nilai            	=
+Pengisian dan Penambahan	+=
+Pengisian dan Pengurangan	-=
+Pengisian dan Perkalian	    *=
+Pengisian dan Pembagian 	/=
+Pengisian dan Sisa bagi 	%=
+
+Contoh:
+```
+<p align="center">
+  <img src="/img/operator2.png">
+</p>
+
+---
+
+```
+3. Operator Pambanding
+
+Sepeti namanya, tugas oprator ini untuk membandingkan.
+
+Operator ini juga dikenal dengan opeartor relasi.
+
+Nilai yang dihasilkan dari operator ini berupa boolean, yaitu: true dan false.
+
+Operator ini terdiri dari:
+
+Nama	                Simbol
+Lebih Besar	            >
+Lebih Kecil	            <
+Sama Dengan	            ==
+Tidak Sama dengan	    !=
+Lebih Besar Sama dengan	>=
+Lebih Kecil Sama dengan	<=
+
+Contoh: 
+```
+<p align="center">
+  <img src="/img/operator3.png">
 </p>
 
 ---
